@@ -27,9 +27,17 @@ standardizing security and privacy protocols such as
 [TLS 1.3](https://datatracker.ietf.org/wg/tls/about/) and
 [MLS 1.0](https://datatracker.ietf.org/wg/mls/about/).
 
+Research Awards:
+- Internet Defense Prize at Usenix Security 2023
+- Distinguished paper at Usenix Security 2023
+- Distinguished paper at IEEE S&P 2015
+- Best paper at Usenix WOOT 2016
+
 Program Committees:
-- Real World Crypto 2023, NDSS 2023, CHES 2023, CHES 2022, CHES 2021, SSR 2022, SSR 2020, IEEE S&P 2016 (shadow)
+- Real World Crypto 2024 and 2023
+- NDSS 2023
+- CHES 2023, 2022, and 2021
+- SSR 2022, and 2020
+- IEEE S&P 2016 (shadow)
 - Occasional reviews at CCS 2022, Eurocrypt 2021, CCS 2020, S&P, Crypto...
 
-Some Research Awards:
-- Best papers IEEE S&P 2015, Usenix WOOT 2016
