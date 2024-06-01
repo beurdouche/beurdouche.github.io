@@ -5,6 +5,10 @@ title: Talks
 
 <ins>**Selection of Presentations**</ins>
 
+*2024 - IACR Real World Crypto*\
+**"Advancements and Future Directions in Secure Messaging with MLS and MIMI"**
+[[slides]]({{ site.url }}/talks/2024-RWC.pdf)
+
 *2022 - ENISA Article 19 group*\
 **"QWACs, Root CAs and the security of the ecosystem" (with Tanja Lange)**
 [[slides]]({{ site.url }}/talks/2022-ENISA-QWACs.pdf)
@@ -25,5 +29,5 @@ title: Talks
 
 *2018 - IACR Real World Crypto*\
 **"HACL\* in Mozilla Firefox: Formal methods and High Assurance Applications for the Web"**
-[[slides]]({{ site.url }}/publications/2018-RWC-HACL-Slides.pdf)
+[[slides]]({{ site.url }}/talks/2018-RWC.pdf)
 [[video]](https://www.youtube.com/watch?v=xrZTVRICpSs)
