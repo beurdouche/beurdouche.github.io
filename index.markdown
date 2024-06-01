@@ -34,10 +34,10 @@ Research Awards:
 - Best paper at Usenix WOOT 2016
 
 Program Committees:
+- IEEE Security and Privacy 2025
 - Real World Crypto 2024 and 2023
 - NDSS 2023
 - CHES 2023, 2022, and 2021
 - SSR 2022, and 2020
 - IEEE S&P 2016 (shadow)
 - Occasional reviews at CCS 2022, Eurocrypt 2021, CCS 2020, S&P, Crypto...
-
