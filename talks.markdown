@@ -5,6 +5,9 @@ title: Talks
 
 <ins>**Selection of Presentations**</ins>
 
+*2025 - IACR Real World Crypto*\
+**"Improving the Trustworthiness of Javascript on the Web"**
+
 *2024 - IACR Real World Crypto*\
 **"Advancements and Future Directions in Secure Messaging with MLS and MIMI"**
 [[slides]]({{ site.url }}/talks/2024-RWC.pdf)
